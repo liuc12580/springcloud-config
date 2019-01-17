@@ -1,7 +1,3 @@
 # testing environment
 server:
   port: 8090
-
-spring:
-  application:
-    name: springcloudprovider
