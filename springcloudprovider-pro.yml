@@ -1,0 +1,7 @@
+# production environment
+server:
+  port: 8086
+
+spring:
+  application:
+    name: springcloudprovider
